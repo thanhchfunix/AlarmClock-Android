@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PRM391x_AlarmClock_thanhchfx01399</string>
+    <string name="btnAdd">Add</string>
+    <string name="textOn">ON</string>
+    <string name="textOff">OFF</string>
+    <string name="alarm_clock">Alarm Clock</string>
+    <string name="alarm">Alarm</string>
+</resources>
